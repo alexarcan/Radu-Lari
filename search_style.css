@@ -1,0 +1,26 @@
+
+button{
+	            position:relative;
+                padding:2px 10px;
+                left:-1px;
+                border:2px solid #207cca;
+                background-color:#207cca;
+                color:#fafafa;
+}
+
+.search {
+				width:600px;
+               
+                position:relative;
+                padding:20px 15px;
+				margin:20px;
+                
+                border:2px solid #cce5ff;
+                background-color:#cce5ff;
+                color:#fafafa;
+}
+.search:hover  {
+				border:2px solid #80bfff;
+                background-color:#fafafa;
+                color:#207cca;
+}

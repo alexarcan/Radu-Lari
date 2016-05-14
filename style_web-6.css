@@ -1,0 +1,18 @@
+  body { 
+    background: #F8F8F8 ; 
+	
+}
+
+#self1{
+	background: rgb(230,230,230);
+	width: 70%;
+	height: 210px;
+	overflow-y: auto;
+	overflow-x: hidden;  
+	border: 2px solid rgb(161, 161, 161);
+	padding: 6px;
+	margin: 15px 0px 10px 6px;
+	
+	
+}
+ 

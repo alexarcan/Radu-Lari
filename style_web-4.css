@@ -1,0 +1,28 @@
+body { 
+    background: #d4ddf7 ; 
+}
+
+p{
+	text-align:justify;
+}
+
+.event_pic {
+	width:300px;
+	height:200px;
+	float:left;
+	padding:5px;
+	margin-right:10px;
+}
+
+.art1{
+	background: rgb(230,230,230);
+	width: 80%;
+	height: 210px;
+	overflow-y: auto;
+	overflow-x: hidden;  
+	border: 2px solid rgb(100, 0, 255);
+	padding: 10px;
+	margin: 25px 25px;
+	
+	
+}

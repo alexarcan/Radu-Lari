@@ -1,0 +1,135 @@
+#logo {
+	
+  border:2px solid red; 
+  float: left;
+  width: 60%;
+  height:80px;
+  margin-left:5px;
+  margin-right:5px;
+color:#d9b3ff;
+	
+}
+#logo:hover{
+	opacity:0.5;
+	
+}
+
+.pic_browse1 {
+  display:inline;
+  border: 10px solid #C8E0E0;  
+  float: left;
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  overflow: hidden;
+  position:relative;
+  
+   
+  -webkit-box-shadow: 5px 5px 5px #111;
+          box-shadow: 5px 5px 5px #111; 
+-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;		  
+}
+
+
+.pic_grow1{
+  height: 400px;
+  width: 400px;
+  position:absolute;
+
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  opacity:1;
+}
+
+.pic_grow1:hover {
+  width: 500px;
+  height: 500px;
+  opacity:0.5;
+}
+
+#text1
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:30px;
+    font-weight:bold;
+    padding:10px;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.5);
+	   
+}
+#text_log
+{
+	z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:50px;
+    font-weight:bold;
+    padding:10px;
+	margin-left:150px;
+	
+}
+
+
+
+.pic_browse2 {
+	display:inline;
+  border: 10px solid #C8E0E0;  
+  float: left;
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  overflow: hidden;
+  position:relative;
+  
+  -webkit-box-shadow: 5px 5px 5px #111;
+          box-shadow: 5px 5px 5px #111; 
+-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;	
+   		  
+}
+
+
+.pic_grow2{
+  height: 400px;
+  width: 400px;
+   position:absolute;
+
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+   opacity:1;	  
+}
+
+.pic_grow2:hover {
+  width: 500px;
+  height: 500px;
+  opacity:0.5;
+}
+
+
+
+body { 
+    background: rgb(189,182,193) ; 
+	margin: 10px;
+	
+}
+
+h2{
+	font-size:30px;
+    font-weight:bold;
+    padding:20px;
+}
+
+
